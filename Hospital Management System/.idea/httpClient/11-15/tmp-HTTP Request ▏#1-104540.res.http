@@ -1,0 +1,10 @@
+// Status: 400, time: 165ms, size: 148 B
+### HTTP Request ▏#1
+POST http://localhost:8082/api/appointments HTTP/1.1
+connection: close
+content-length: 148
+content-type: text/plain;charset=UTF-8
+date: Sat, 15 Nov 2025 17:15:40 GMT
+
+Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.hms.appointment.model.AppointmentRequest.getDurationMinutes()" is null
+>> C:\Users\KIIT\Desktop\Hospital Management System\.idea\httpClient\11-15\HTTP Request ▏#1\2025-11-15T224540.txt
